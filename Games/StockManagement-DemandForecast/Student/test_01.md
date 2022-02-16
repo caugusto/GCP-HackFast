@@ -1,6 +1,5 @@
 
 
-
 # Challenge 1: Prepare your environment 
 
 home – previous challenge – next challenge 
@@ -65,7 +64,7 @@ Steps
 
     10. Create a new Pub/Sub subscription that receives messages which are sent to the  `oracle_retail` topic. 
 
-        _Hack now! _
+        _Hack now!_
 
     11. Documentation for creating and subscribing to Pub/Sub topics can be found here
 6. Create a BigQuery dataset named `retail` and assign the BigQuery Admin role to your Compute Engine service account. 
