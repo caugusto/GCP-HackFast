@@ -50,10 +50,7 @@ Steps
 4. Create Cloud Storage bucket to store your replicated data named `$BUCKET_NAME `
 
 
-```
-		Hack Now! 
-
-```
+< Hack Now! >
 
 
 
